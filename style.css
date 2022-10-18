@@ -1,0 +1,35 @@
+body{
+    padding-top: 15rem;
+}
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+.UPI{
+    padding: auto;
+    transition-duration: 0.4s;
+}
+.UPI:hover{
+    background-color:ivory;
+}
+.net_banking{
+    padding: auto;
+    transition-duration: 0.4s;
+}
+.net_banking:hover{
+    background-color:ivory;
+}
+.submit_btn{
+    padding: auto;
+    transition-duration: 0.4s;
+}
+.submit_btn:hover{
+    background-color:ivory;
+}
+.image{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
